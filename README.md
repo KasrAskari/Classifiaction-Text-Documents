@@ -34,7 +34,7 @@ It aims to explore text preprocessing, feature extraction, and classification te
 The classifier achieved an **accuracy of 88.23%** on the test set.
 The confusion matrix below shows how well the model distinguished between the four categories:
 
-![Confusion Matrix](Confusion Matrix Heatmap.png)
+![Confusion Matrix](Confusion%20Matrix%20Heatmap.png)
 
 ---
 
